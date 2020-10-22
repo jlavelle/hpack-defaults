@@ -1,0 +1,7 @@
+#+TITLE: hpack-defaults
+
+* Description
+A collection of default common options I use in my Haskell projects.
+
+** ~default.yaml~
+Contains commonly used GHC options and generally safe language extensions.
